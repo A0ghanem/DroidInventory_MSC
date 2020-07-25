@@ -19,6 +19,7 @@ namespace DroidInventory_MSC
         public frmLogin()
         {
             InitializeComponent();
+
             var app = Application.Current as App;
             if (app.IsRemember)
             {
