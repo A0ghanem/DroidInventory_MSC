@@ -18,6 +18,7 @@ namespace DroidInventory_MSC
 
         public frmLogin()
         {
+            //welcome
             InitializeComponent();
 
             var app = Application.Current as App;
